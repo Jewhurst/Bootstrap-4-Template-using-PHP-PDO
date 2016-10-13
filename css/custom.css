@@ -1,0 +1,19 @@
+.text-center{text-align:center;}
+.navbar-brand{
+	font-size:1.5em;
+	font-weight:bold;
+}
+.nav-link a{
+	color:#fff;
+}
+.navbar-nav .nav-link {
+	color:#fff;
+	padding-top: .65rem;
+	padding-bottom: .425rem;
+}
+.navbar .nav.pull-right {
+     float: right;
+    margin-right: 0px; /*set margin this way in your custom styesheet*/
+	color:#fff;
+  }
+.bg-inverse{background-color:#214fd9!important;}
